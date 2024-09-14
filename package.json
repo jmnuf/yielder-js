@@ -1,0 +1,15 @@
+{
+  "name": "@jmnuf/yield-promises",
+  "version": "1.0.0",
+  "description": "Be able to run stuff with just generators/yield instead of async/await",
+    "main": "yielder.js",
+    "type": "module",
+  "scripts": {
+    "test": "node node-example.js"
+  },
+  "keywords": [
+    "generators"
+  ],
+  "author": "JM <jose.m.nufio.0@gmail.com>",
+  "license": "MIT"
+}
